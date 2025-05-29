@@ -1,0 +1,17 @@
+hydraulic_conductivity_analysis/
+├── README.md
+├── requirements.txt
+├── main.py
+├── LICENSE
+├── data/
+│   ├── shapefile_example/
+│   │   ├── vagkorsning_area.shp
+│   │   ├── vagkorsning_area.dbf
+│   │   ├── vagkorsning_area.shx
+│   │   └── vagkorsning_area.prj
+├── output/
+│   ├── CSV/
+│   ├── PNG/
+│   ├── XLSX/
+│   └── SHP/
+└── .gitignore

@@ -1,0 +1,7 @@
+numpy
+pandas
+geopandas
+matplotlib
+scipy
+requests
+xlsxwriter
