@@ -18,6 +18,8 @@ K = 0,0756 × Q1,0255/Lw
 där Lw (m) är längden av den öppna, vattenfyllda borrhålslängden i berg."
 
 More information is provided at SGUs website https://www.sgu.se/anvandarstod-for-geologiska-fragor/bedomning-av-influensomrade-avseende-grundvatten/utgangslage-och-utredningsstrategi/berakningsexempel-hydraulisk-konduktivitet-for-vattenforande-sprickigt-berg/
+![kumulativ fördelningsfunktion av K för samtliga brunnar](https://github.com/user-attachments/assets/3f64f6d8-6f77-4204-bfb6-55c96a4aa3dd)
+![kumulativ fördelningsfunktion av K för djupintervall](https://github.com/user-attachments/assets/5b76618e-c68b-4ae7-881b-69fc9b3e7a02)
 
 ## Setup
 
